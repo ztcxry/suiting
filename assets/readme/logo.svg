@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title description">
+  <title id="title">随听 · Sui Ting</title>
+  <desc id="description">The project's green vinyl record and play symbol.</desc>
+  <rect width="64" height="64" rx="16" fill="#234D3C"/>
+  <path fill="#122C1D" d="M32,9.5a22.5,22.5 0,1 0,0 45a22.5,22.5 0,1 0,0 -45"/>
+  <path fill="none" stroke="#E8F2EB" stroke-width="1.4" d="M32,13a19,19 0,1 0,0 38a19,19 0,1 0,0 -38"/>
+  <path fill="none" stroke="#739A83" stroke-width="1.1" d="M32,18a14,14 0,1 0,0 28a14,14 0,1 0,0 -28"/>
+  <path fill="none" stroke="#B4DCBD" stroke-width="2.1" stroke-linecap="round" d="M42.5,13.814A21,21 0,0 1,52.284 26.565M21.5,50.186A21,21 0,0 1,11.716 37.435"/>
+  <path fill="#B4DCBD" d="M32,23.5a8.5,8.5 0,1 0,0 17a8.5,8.5 0,1 0,0 -17"/>
+  <path fill="#122C1D" d="M29.5,27.5L37,32L29.5,36.5Z"/>
+</svg>
